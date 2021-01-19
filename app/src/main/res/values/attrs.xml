@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScrollPickerRecyclerView">
+        <attr name="line_color" format="string"/>
+        <attr name="default_selected_item_offset" format="integer"/>
+        <attr name="visible_item_count" format="integer"/>
+    </declare-styleable>
+</resources>
